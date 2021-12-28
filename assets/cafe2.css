@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(172, 165, 165);
+}
+.menu{
+    text-align: center;
+
+}
+.container2{
+    text-align: center;
+}
+table ,tr, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 10px 180px;
+    padding: 5px;
+    width: 1000px;
+}
+#items, #addtocart{
+    height: 30px;
+
+}
+#quan{
+    height: 25px;
+    background-color: grey;
+    font-weight:bolder;
+}
+#checkout,#pay{
+    height: 30px;
+    background-color: rgb(154, 156, 151);
+
+}
+#clear{
+    height:30px;
+}
